@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RotaractSuncity</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
